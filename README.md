@@ -13,3 +13,11 @@ touch index.js
 ```
 node index
 ```
+
+```
+psql -U postgres
+```
+
+\l -all databases in postgresql
+\c - move inside a databases
+\dt - show table in database
