@@ -9,7 +9,7 @@ const ListTodos = () => {
 
   const deleteTodo = async (id) => {
     try {
-      const deleteTodo = await fetch(`http://localhost:4000/todos/${id}`, {
+       await fetch(`http://localhost:4000/todos/${id}`, {
         method: "DELETE",
       });
 
