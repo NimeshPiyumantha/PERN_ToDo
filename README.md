@@ -21,3 +21,5 @@ psql -U postgres
 \l -all databases in postgresql
 \c - move inside a databases
 \dt - show table in database
+
+https://documenter.getpostman.com/view/21678240/2s946icria
