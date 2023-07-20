@@ -2,6 +2,8 @@
 
 Learn the PERN stack.(PostgreSQL, Express, React, and Node.js).
 
+[![wakatime](https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407/project/5d13e582-fbc1-4141-bbc9-02d70e10e92d.svg)](https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407/project/5d13e582-fbc1-4141-bbc9-02d70e10e92d)
+
 ## - Technology
 
 - Postgresql
